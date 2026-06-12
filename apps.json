@@ -88,7 +88,7 @@
       "name": "Bomberman Hero",
       "repository": "RevoSucks/BMHeroRecomp",
       "folderName": "BMHeroRecompiled",
-      "appIconUrl": "https://github.com/RevoSucks/BMHeroRecomp/blob/master/icons/app.png",
+      "appIconUrl": "https://raw.githubusercontent.com/RevoSucks/BMHeroRecomp/refs/heads/master/icons/app.png",
       "category": "Recompilations"
     }
   ],
