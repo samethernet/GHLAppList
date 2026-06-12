@@ -23,3 +23,4 @@ jobs:
           generateReleaseNotes: false
           tag: v${{ github.run_number }}
           token: ${{ secrets.GITHUB_TOKEN }}
+          skipIfReleaseExists: true
