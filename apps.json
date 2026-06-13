@@ -41,6 +41,13 @@
       "folderName": "GoldenEye-Recomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/d5e7a42f848de89069733d940881fa90.ico",
       "category": "Recompilations"
+    },
+	{
+      "name": "Skate 3",
+      "repository": "portingpete/skate3-recomp",
+      "folderName": "Skate3Recomp",
+      "appIconUrl": "https://raw.githubusercontent.com/DinosaurPlanetRecomp/dino-recomp/refs/heads/main/icons/64.png",
+      "category": "Recompilations"
     }
   ],
   "PlayStation Ports": [
@@ -66,16 +73,6 @@
       "category": "Port"
     }	
   ],
-  "PlayStation Recompilations": [
-    {
-      "name": "Skate 3",
-      "repository": "portingpete/skate3-recomp",
-      "folderName": "Skate3Recomp",
-      "appIconUrl": "https://raw.githubusercontent.com/DinosaurPlanetRecomp/dino-recomp/refs/heads/main/icons/64.png",
-      "category": "Recompilations"
-    }
-  ],
-
   "Gamecube Ports": [
 	{
       "name": "Mario Party 4",
