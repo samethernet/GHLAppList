@@ -358,7 +358,7 @@
       "name": "Rosalie's Mupen GUI (N64)",
       "repository": "Rosalie241/RMG",
       "folderName": "RosalieMupenGUI",
-      "appIconUrl": "https://raw.githubusercontent.com/Rosalie241/RMG/453f6639734537908c4c2ca35244255bc5424e3d/Artwork/RMG.svg"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/5e93e97910814feb7ea0902bad6182fb/32/512x512.png"
     },
     {
       "name": "Citron Neo (Switch)",
@@ -371,12 +371,6 @@
       "repository": "stenzek/duckstation",
       "folderName": "duckstation",
       "appIconUrl": "https://github.com/stenzek/duckstation/blob/master/data/resources/images/duck.png?raw=true"
-    },
-    {
-      "name": "PCSX2 (PS2)",
-      "repository": "PCSX2/pcsx2",
-      "folderName": "pcsx2",
-      "appIconUrl": "https://github.com/PCSX2/pcsx2/blob/master/bin/resources/icons/AppIconLarge.png?raw=true"
     }
   ]
 }
