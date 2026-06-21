@@ -349,16 +349,16 @@
 
   "Emulators": [
     {
-      "name": "Gopher 64 (N64)",
-      "repository": "gopher64/gopher64",
-      "folderName": "gopher64",
-      "appIconUrl": "https://github.com/gopher64/gopher64/blob/main/data/icon/gopher64.png?raw=true"
+      "name": "Azahar (3DS)",
+      "repository": "azahar-emu/azahar",
+      "folderName": "azahar",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/87c37e1d70083042462c9ad960e15f5e/32/256x256.png"
     },
     {
-      "name": "Rosalie's Mupen GUI (N64)",
-      "repository": "Rosalie241/RMG",
-      "folderName": "RosalieMupenGUI",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon/5e93e97910814feb7ea0902bad6182fb/32/512x512.png"
+      "name": "Cemu (Wii U)",
+      "repository": "cemu-project/cemu",
+      "folderName": "cemu",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/9308b0d6e5898366a4a986bc33f3d3e7/32/256x256.png"
     },
     {
       "name": "Citron Neo (Switch)",
@@ -367,13 +367,37 @@
       "appIconUrl": "https://github.com/citron-neo/emulator/blob/main/dist/qt_themes/default/icons/256x256/citron.png?raw=true"
     },
     {
-      "name": "duckstation (PS1)",
+      "name": "Duckstation (PS1)",
       "repository": "stenzek/duckstation",
       "folderName": "duckstation",
       "appIconUrl": "https://github.com/stenzek/duckstation/blob/master/data/resources/images/duck.png?raw=true"
     },
     {
-      "name": "SkyEmu (GBA, DS)",
+      "name": "Flycast (Dreamcast)",
+      "repository": "flyinghead/flycast",
+      "folderName": "flycast",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/abebb7c39f4b5e46bbcfab2b565ef32b/32/256x256.png"
+    },
+    {
+      "name": "Gopher 64 (N64)",
+      "repository": "gopher64/gopher64",
+      "folderName": "gopher64",
+      "appIconUrl": "https://github.com/gopher64/gopher64/blob/main/data/icon/gopher64.png?raw=true"
+    },
+    {
+      "name": "MelonDS (NDS)",
+      "repository": "melonDS-emu/melonDS",
+      "folderName": "melonDS",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/9c156653d889d37811915236feed8660/32/256x256.png"
+    },
+    {
+      "name": "Rosalie's Mupen GUI (N64)",
+      "repository": "Rosalie241/RMG",
+      "folderName": "RosalieMupenGUI",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/5e93e97910814feb7ea0902bad6182fb/32/512x512.png"
+    },
+    {
+      "name": "SkyEmu (GBA, NDS)",
       "repository": "skylersaleh/SkyEmu",
       "folderName": "skyemu",
       "appIconUrl": "https://github.com/skylersaleh/SkyEmu/blob/dev/src/resources/icons/icon.png?raw=true"
