@@ -154,12 +154,6 @@
       "appIconUrl": "https://raw.githubusercontent.com/sonicdcer/DNZHRecomp/refs/heads/main/icons/512.png"
     },
     {
-      "name": "Pokemon Stadium",
-      "repository": "mstan/PokemonStadiumRecomp",
-      "folderName": "PokemonStadiumRecomp",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon/ae4b60a20b0fe8582450c458ed35a28b.ico"
-    },
-    {
       "name": "Star Fox 64",
       "repository": "sonicdcer/Starfox64Recomp",
       "folderName": "Starfox64Recompiled",
@@ -266,6 +260,12 @@
       "repository": "Cellenseres/SSSV_Recomp",
       "folderName": "SSSVRecompiled",
       "appIconUrl": "https://raw.githubusercontent.com/Cellenseres/SSSV_Recomp/refs/heads/main/icons/512.png"
+    },
+    {
+      "name": "Pokemon Stadium",
+      "repository": "mstan/PokemonStadiumRecomp",
+      "folderName": "PokemonStadiumRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/ae4b60a20b0fe8582450c458ed35a28b.ico"
     }
   ],
 
