@@ -197,8 +197,8 @@
     },
     {
       "name": "Snowboard Kids 2",
-      "repository": "cdlewis/snowboardkids2-recomp/",
-      "folderName": "SnowboardKidsRecompiled",
+      "repository": "cdlewis/snowboardkids2-recomp",
+      "folderName": "SnowboardKids2Recompiled",
       "appIconUrl": "https://github.com/cdlewis/snowboardkids2-recomp/blob/main/icons/512.png?raw=true"
     }    
   ],
