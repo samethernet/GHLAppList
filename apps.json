@@ -422,12 +422,6 @@
       "repository": "xemu-project/xemu",
       "folderName": "xemu",
       "appIconUrl": "https://github.com/xemu-project/xemu/blob/master/ui/icons/xemu_64x64.png?raw=true"
-    },
-    {
-      "name": "xenia (360)",
-      "repository": "xenia-project/xenia",
-      "folderName": "xenia",
-      "appIconUrl": "https://github.com/xenia-project/xenia/blob/master/assets/icon/1024.png?raw=true"
     }
   ]
 }
