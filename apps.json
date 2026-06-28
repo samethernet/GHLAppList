@@ -300,6 +300,12 @@
       "folderName": "reNut",
       "appIconUrl": "https://raw.githubusercontent.com/masterspike52/reNut/refs/heads/main/icon/app.ico"
     },
+	{
+      "name": "Viva Pinata Trouble In Paradise Recompiled",
+      "repository": "SolarCookies/TiP-Recomp",
+      "folderName": "VivaPinataTiPRecomp",
+      "appIconUrl": "https://raw.githubusercontent.com/SolarCookies/TiP-Recomp/refs/heads/main/icon/app.ico"
+    },
     {
       "name": "WipeOut Phantom Edition",
       "repository": "wipeout-phantom-edition/wipeout-phantom-edition",
