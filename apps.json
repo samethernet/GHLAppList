@@ -1,4 +1,19 @@
 {
+  "Wii/Gamecube Ports": [
+    {
+      "name": "Mario Party 4",
+      "repository": "mariopartyrd/marioparty4",
+      "folderName": "marioparty4",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/3e60e09c222f206c725385f53d7e567c.png"
+    },
+    {
+      "name": "Zelda: TP (Dusklight)",
+      "repository": "TwilitRealm/dusklight",
+      "folderName": "TwilitRealm.dusklight",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/3eea4f9e7acb84e451bcfdfac2050fd7/32/256x256.png"
+    }
+  ],
+
   "AI Wii/Gamecube Ports": [
     {
       "name": "Animal Crossing",
@@ -32,21 +47,6 @@
       "repository": "CTR-tools/ctr-native",
       "folderName": "CTR-tools.ctr-native",
       "appIconUrl": "https://cdn2.steamgriddb.com/thumb/b08236b8ad7335f1f7983a1477f36efe.jpg"
-    }
-  ],
-
-  "Wii/Gamecube Ports": [
-    {
-      "name": "Mario Party 4",
-      "repository": "mariopartyrd/marioparty4",
-      "folderName": "marioparty4",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon/3e60e09c222f206c725385f53d7e567c.png"
-    },
-    {
-      "name": "Zelda: TP (Dusklight)",
-      "repository": "TwilitRealm/dusklight",
-      "folderName": "TwilitRealm.dusklight",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon/3eea4f9e7acb84e451bcfdfac2050fd7/32/256x256.png"
     }
   ],
 
